@@ -93,27 +93,28 @@ A full-scale Business Requirements Document (BRD) created for a real-world style
 
 📘 Contents of the BRD:
 
-Business Problem & Objective
+• Business Problem & Objective
 
-Executive Summary
+• Executive Summary
 
-Project Scope(In-scope and out of scope)
+• Project Scope(In-scope and out of scope)
 
-Business Requirements
+• Business Requirements
 
-Stakeholder Matrix
+• Stakeholder Matrix
 
-Functional and Non-Functional Requirements
+• Functional and Non-Functional Requirements
 
-Use Cases and Acceptance Criteria
+• Use Cases and Acceptance Criteria
 
-Business Process Overview:
-Process Flow Diagrams, (As-Is & To-Be)
+• Business Process Overview:
+  Process Flow Diagrams, (As-Is & To-Be)
 
-Acceptance Criteria
+• Acceptance Criteria
 
 Note: Functional and non-functional requirements are included within the BRD document itself.
-Few process flow diagrams have been generated using AI tools to showcase automation-driven documentation efficiency.
+• Epics, User stories, Moscow, Sucess Criteria document has been uploaded separately for better understanding.
+• Few process flow diagrams have been generated using AI tools to showcase automation-driven documentation efficiency.
 
 🧩 Tools Used:
 
