@@ -87,7 +87,7 @@ Visuals:
 
  • Count of account by account type → Pie Chart
 
-2️⃣ BRD — Unilever Canteen Ordering System
+2️⃣ BRD: Unilever Canteen Ordering System
 
 A full-scale Business Requirements Document (BRD) created for a real-world style business problem with the help of AI tools- focusing on automation and efficiency in a corporate canteen ordering process.
 
