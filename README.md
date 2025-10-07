@@ -156,13 +156,17 @@ A comprehensive research-based project analyzing which approach- fundamental or 
 • Showcases knowledge of Agile methodology and backlog management.
 
 🧰 Tools & Technologies Used
-Category	Tools / Technologies
-Database & Analysis	MySQL, SQL Queries
-Visualization	Power BI (Power Query, Charts, KPIs)
-Documentation	Word, Excel, Draw.io, Luci Charts, AI-tools
-Project Management-	JIRA
-Statistical Testing	Excel
+
+• Database & Analysis	MySQL, SQL Queries
+
+• Visualization	Power BI (Power Query, Charts, KPIs)
+
+• Documentation	Word, Excel, Draw.io, Luci Charts, AI-tools
+
+• Project Management-	JIRA
+
 📁 Repository Structure
+
 /Business-Analyst-Portfolio
  ┣ /Customer-Banking-Transactions-Analysis
  ┃ ┣ /data/
