@@ -89,7 +89,7 @@ Visuals:
 
 2️⃣ BRD: Unilever Canteen Ordering System
 
-A full-scale Business Requirements Document (BRD) created for a real-world style business problem with the help of AI tools- focusing on automation and efficiency in a corporate canteen ordering process.
+Worked on a Business Analyst case study based on Unilever’s canteen system, where I've created a Business Requirements Document (BRD) focused on improving the ordering process. The project includes writing user stories, mapping process flow diagrams, Business and Functional and Non- Functional Requirements as well, defining success criteria, and managing sprints through JIRA. I've also explored few AI tools to enhance the document efficiency.
 
 📘 Contents of the BRD:
 
