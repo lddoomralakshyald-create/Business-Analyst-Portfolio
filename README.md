@@ -130,7 +130,7 @@ JIRA screenshots and process diagrams are attached in the repository folders.
 
 3️⃣ Major Project- Fundamental vs Technical Analysis in Stock Selection
 
-A comprehensive research-based project analyzing which approach- fundamental or technical- provides better results in stock selection.
+In this report I've showcased a analysis between fundamental and technical approaches for stock selection using financial statements, ratios, and market indicators. Which includes chart analysis via trend and candlestick patterns, indicators like Ma cross, Macd and Rsi and Fundamentals which includes the Total assets, Total liabilities and Cash flow in the company.
 
 📊 Key Components:
 
